@@ -9,19 +9,24 @@ I fix problems with data that others don't know exist yet. My analytics career s
 
 ## Techical Arsenal 
 
-*Data Analysis & Insights*  
+*Data Analysis & Insights* 
+
 Extracting actionable intelligence from multi-industry datasets. Proficient in trend detection, anomaly identification, and pattern recognition across operational, HR, financial, and customer data.
 
 *Machine Learning & AI* 
+
 Building forecasting models and classification algorithms using Python (scikit-learn, pandas, NumPy). Experience with time-series analysis, clustering, and regression techniques that drive strategic decisions.
 
-*Visualization & Reporting*  
+*Visualization & Reporting* 
+
 Designing interactive dashboards and visual narratives in Tableau, Power BI, and Excel. Transform raw metrics into executive-ready insights that stakeholders actually use.
 
 *SQL and Database Management & Optimization*
+
 Writing efficient SQL queries for data extraction, transformation, and analysis. Comfortable working with relational databases, data warehouses, and cloud-based systems (AWS, GCP).
 
 *Collaboration & Tools*
+
 Git • Jira • Trello • Notion
 
 ### Let’s Talk  
